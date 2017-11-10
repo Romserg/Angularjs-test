@@ -1,0 +1,8 @@
+.user-list .user-item {
+    margin: 5px;
+    padding: 10px;
+}
+
+.user-list .user-item .btn-remove {
+    margin-left: 10px;
+}
